@@ -1,4 +1,4 @@
-# ResultsFound
+# Results Found
 Classe que pesquisa em um texto a uma palavra qualquer, por exemplo usada em uma pesquisa e a deixa em negrito no texto.
 
 Para utilizar basta instanciar a classe <code>$resultsFound = new ResultsFound();</code>.
