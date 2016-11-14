@@ -31,3 +31,14 @@ Digamos que pesquisamos todos os usuários com a palavra "Pedro", ai o resultado
 </tr>
 </tbody>
 </table>
+
+
+## Utilização via composer
+
+```sh
+    "require": {
+        ...
+        "tayron/score-results" : "1.0"
+        ... 
+    },    
+```
