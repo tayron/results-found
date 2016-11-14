@@ -1,0 +1,22 @@
+{
+    "name": "tayron/score-results",
+    "description": "Classe que pesquisa em um texto a uma palavra qualquer, por exemplo usada em uma pesquisa e a deixa em negrito no texto",
+    "version": "1.0",
+    "type": "classe-utilitaria",
+    "homepage": "https://github.com/tayron/score-results",
+    "authors": [
+        {
+            "name": "Tayron Miranda",
+            "email": "dev@tayron.com.br"
+        }
+    ],    
+    "require": {
+        "php": ">=5.3"       
+    },
+    "autoload": {
+        "psr-4": {
+            "Tayron\\": "\\"
+        }
+    }      
+
+}
