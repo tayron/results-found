@@ -38,7 +38,7 @@ Digamos que pesquisamos todos os usuários com a palavra "Pedro", ai o resultado
 ```sh
     "require": {
         ...
-        "tayron/results-found" : "1.0"
+        "tayron/results-found" : "dev-master
         ... 
     },    
 ```
