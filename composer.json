@@ -1,7 +1,7 @@
 {
     "name": "tayron/results-found",
     "description": "Classe que pesquisa em um texto a uma palavra qualquer, por exemplo usada em uma pesquisa e a deixa em negrito no texto",
-    "version": "1.0",
+    "version": "1.0.0",
     "type": "classe-utilitaria",
     "homepage": "https://github.com/tayron/score-results",
     "authors": [
